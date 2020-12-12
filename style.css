@@ -1,0 +1,29 @@
+body{
+	background: linear-gradient(to left, gray, black, gray);
+}
+
+h1{
+	font-size: 5rem;
+	font-family: Kristen ITC;
+	text-align: center;
+	background: -webkit-linear-gradient(cyan,aqua,snow,royalblue);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+ 
+p{
+	background: -webkit-linear-gradient(cyan,aqua,snow,royalblue);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	font-family: Tempus Sans ITC;
+  	position: relative;
+  	left: 23%;
+}
+
+.dice{
+	width: 100%;
+	float: left;
+	width: 30%;
+	position: relative;
+	left: 28%;
+}
